@@ -1,9 +1,4 @@
-/* 团队成员 | People
-   group 可选 pi、postdoc、phd、master、undergrad、alumni。
-   增加成员：复制数组内一个 { ... } 并在两个成员间保留英文逗号。
-   文件仅负责 people 栏目的内容；请保留引号、逗号和括号。
-*/
-
+/* AWD Lab people · 可视化编辑器导出 */
 window.SITE_DATA.people = [
   {
     "name": {
@@ -22,10 +17,23 @@ window.SITE_DATA.people = [
       "en": "Acoustics · Wave dynamics · Acoustofluidics",
       "zh": "声学 · 波动力学 · 声流体"
     }
+  },
+  {
+    "name": {
+      "en": "Guoxing Hou",
+      "zh": ""
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": ""
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "3120256726@bit.edu.cn",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
   }
 ];
-
-
-/* 添加学生示例（复制到上方数组的 ] 之前，注意用逗号分隔）
-{ "name": {"en":"Student Name","zh":"学生姓名"}, "role":{"en":"Ph.D. Student","zh":"博士研究生"}, "group":"phd", "photo":"assets/student.jpg", "email":"", "website":"", "note":{"en":"Research interests","zh":"研究方向"} }
-*/
