@@ -10,9 +10,9 @@ window.SITE_DATA.people = [
       "zh": "课题组负责人 · 教授"
     },
     "group": "pi",
-    "photo": "",
-    "email": "",
-    "website": "",
+    "photo": "assets/xianchenxu.jpg",
+    "email": "xianchen.xu@bit.edu.cn",
+    "website": "https://hy.bitzh.edu.cn/szdw/jsml/zgzc/0f9a504a7407405abbeed055e3f9513b.htm",
     "note": {
       "en": "Acoustics · Wave dynamics · Acoustofluidics",
       "zh": "声学 · 波动力学 · 声流体"
