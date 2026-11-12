@@ -1,8 +1,4 @@
-/* 教学课程 | Teaching
-   resource 可填写讲义网页或公开 PDF 的相对路径，例如 assets/lecture1.pdf。
-   文件仅负责 teaching 栏目的内容；请保留引号、逗号和括号。
-*/
-
+/* AWD Lab teaching · 可视化编辑器导出 */
 window.SITE_DATA.teaching = [
   {
     "title": {
@@ -10,7 +6,7 @@ window.SITE_DATA.teaching = [
       "zh": "声流体力学"
     },
     "term": {
-      "en": "Graduate-level teaching materials",
+      "en": "Graduate-level ",
       "zh": "研究生课程讲义"
     },
     "description": {
@@ -21,15 +17,15 @@ window.SITE_DATA.teaching = [
   },
   {
     "title": {
-      "en": "Solid Mechanics & Wave Physics",
+      "en": "Finite Elements Method and Multiphysics Simulation ",
       "zh": "固体力学与波动物理"
     },
     "term": {
-      "en": "Selected teaching topics",
+      "en": "Graduate-level ",
       "zh": "相关教学专题"
     },
     "description": {
-      "en": "Continuum mechanics, elastic-wave propagation, resonances and metamaterials.",
+      "en": "Fundamentals of FEM, Multiphysics coupling theory, Fundamentals of FEM simulation with multiphysics coupling field, Applications",
       "zh": "连续介质力学、弹性波传播、共振及超构材料。"
     },
     "resource": ""
