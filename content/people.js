@@ -35,5 +35,23 @@ window.SITE_DATA.people = [
       "en": "",
       "zh": ""
     }
+  },
+  {
+    "name": {
+      "en": "",
+      "zh": "王瑞程"
+    },
+    "role": {
+      "en": "",
+      "zh": ""
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
   }
 ];
