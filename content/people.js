@@ -38,7 +38,7 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
-      "en": "Zhenlin Liu",
+      "en": "Zhenglin Liu",
       "zh": "刘拯林"
     },
     "role": {
@@ -120,6 +120,114 @@ window.SITE_DATA.people = [
     "group": "master",
     "photo": "",
     "email": "3498946843@qq.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Junyi Chen",
+      "zh": "陈俊亦"
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Jingsong Zhang",
+      "zh": "张景淞"
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Zisen Xu",
+      "zh": "徐自森"
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Huaixiao Li",
+      "zh": "李怀霄"
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "li25225@163.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Jiawei Zhou",
+      "zh": "周家伟"
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Menghui Lan",
+      "zh": ""
+    },
+    "role": {
+      "en": "",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
     "website": "",
     "note": {
       "en": "",
