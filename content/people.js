@@ -38,16 +38,88 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
+      "en": "Zhenlin Liu",
+      "zh": "刘拯林"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "309907509@qq.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
       "en": "Ruicheng Wang",
       "zh": "王瑞程"
     },
     "role": {
       "en": "Master",
-      "zh": ""
+      "zh": "学生"
     },
     "group": "master",
     "photo": "",
     "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Xintao Zhou",
+      "zh": "周新涛"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "764142494@qq.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Zhuoxing Liu",
+      "zh": "刘卓醒"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Jinrui Zhang",
+      "zh": "张锦锐"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "3498946843@qq.com",
     "website": "",
     "note": {
       "en": "",
