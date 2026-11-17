@@ -1,7 +1,4 @@
-/* 网站基本信息 | Site-wide settings
-   以后修改实验室名称、地址、公共邮箱，只需要改这里。
-   Home 页文字请到 content/home.js 修改。
-*/
+/* AWD Lab 网站基本信息 · 可视化编辑器导出 */
 window.SITE_DATA = {
   "labName": "Acoustic & Wave Dynamic Lab",
   "shortName": "AWD Lab",
