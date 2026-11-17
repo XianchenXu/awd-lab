@@ -28,7 +28,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "phd",
-    "photo": "",
+    "photo": "assets/houguoxing.jpg",
     "email": "3120256726@bit.edu.cn",
     "website": "",
     "note": {
@@ -228,6 +228,24 @@ window.SITE_DATA.people = [
     "group": "master",
     "photo": "",
     "email": "3498946843@qq.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "",
+      "zh": "张磊"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": ""
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
     "website": "",
     "note": {
       "en": "",
