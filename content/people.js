@@ -21,7 +21,7 @@ window.SITE_DATA.people = [
   {
     "name": {
       "en": "Guoxing Hou",
-      "zh": ""
+      "zh": "侯国兴"
     },
     "role": {
       "en": "Ph.D",
@@ -39,14 +39,14 @@ window.SITE_DATA.people = [
   {
     "name": {
       "en": "Ruicheng Wang",
-      "zh": ""
+      "zh": "王瑞程"
     },
     "role": {
       "en": "Ph.D",
       "zh": ""
     },
-    "group": "phd",
-    "photo": "",
+    "group": "master",
+    "photo": "assets/b191e724-ed1b-408d-9f4d-49bedbf794b1.png",
     "email": "",
     "website": "",
     "note": {
