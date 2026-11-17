@@ -119,7 +119,7 @@ window.SITE_DATA.people = [
     },
     "group": "master",
     "photo": "",
-    "email": "",
+    "email": "3220253059@bit.edu.cn",
     "website": "",
     "note": {
       "en": "",
@@ -155,7 +155,7 @@ window.SITE_DATA.people = [
     },
     "group": "master",
     "photo": "",
-    "email": "",
+    "email": "3220253060@bit.cn",
     "website": "",
     "note": {
       "en": "",
