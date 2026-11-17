@@ -56,134 +56,8 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
-      "en": "Huaixiao Li",
-      "zh": "李怀霄"
-    },
-    "role": {
-      "en": "Ph.D",
-      "zh": "学生"
-    },
-    "group": "phd",
-    "photo": "",
-    "email": "li25225@163.com",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Jingsong Zhang",
-      "zh": "张景淞"
-    },
-    "role": {
-      "en": "Ph.D",
-      "zh": "学生"
-    },
-    "group": "phd",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Jiawei Zhou",
-      "zh": "周家伟"
-    },
-    "role": {
-      "en": "Ph.D",
-      "zh": "学生"
-    },
-    "group": "phd",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Junyi Chen",
-      "zh": "陈俊亦"
-    },
-    "role": {
-      "en": "Master",
-      "zh": "学生"
-    },
-    "group": "master",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
       "en": "Ruicheng Wang",
       "zh": "王瑞程"
-    },
-    "role": {
-      "en": "Master",
-      "zh": "学生"
-    },
-    "group": "master",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Zisen Xu",
-      "zh": "徐自森"
-    },
-    "role": {
-      "en": "Master",
-      "zh": "学生"
-    },
-    "group": "master",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Menghui Lan",
-      "zh": "蓝蒙慧"
-    },
-    "role": {
-      "en": "Master",
-      "zh": "学生"
-    },
-    "group": "master",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Zhuoxing Liu",
-      "zh": "刘卓醒"
     },
     "role": {
       "en": "Master",
@@ -218,6 +92,24 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
+      "en": "Zhuoxing Liu",
+      "zh": "刘卓醒"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
       "en": "Jinrui Zhang",
       "zh": "张锦锐"
     },
@@ -228,6 +120,114 @@ window.SITE_DATA.people = [
     "group": "master",
     "photo": "",
     "email": "3498946843@qq.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Junyi Chen",
+      "zh": "陈俊亦"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Jingsong Zhang",
+      "zh": "张景淞"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Zisen Xu",
+      "zh": "徐自森"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Huaixiao Li",
+      "zh": "李怀霄"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "li25225@163.com",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Jiawei Zhou",
+      "zh": "周家伟"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
+      "en": "Menghui Lan",
+      "zh": "蓝蒙慧"
+    },
+    "role": {
+      "en": "Master",
+      "zh": "学生"
+    },
+    "group": "master",
+    "photo": "",
+    "email": "",
     "website": "",
     "note": {
       "en": "",
