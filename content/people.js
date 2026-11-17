@@ -38,15 +38,15 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
-      "en": "",
-      "zh": "王瑞程"
+      "en": "Ruicheng Wang",
+      "zh": ""
     },
     "role": {
       "en": "Ph.D",
       "zh": ""
     },
     "group": "phd",
-    "photo": "",
+    "photo": "assets/b191e724-ed1b-408d-9f4d-49bedbf794b1.png",
     "email": "",
     "website": "",
     "note": {
