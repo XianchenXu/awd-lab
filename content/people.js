@@ -236,7 +236,7 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
-      "en": "",
+      "en": "Lei Zhang",
       "zh": "张磊"
     },
     "role": {
