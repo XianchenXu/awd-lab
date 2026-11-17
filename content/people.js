@@ -25,7 +25,7 @@ window.SITE_DATA.people = [
     },
     "role": {
       "en": "Ph.D",
-      "zh": ""
+      "zh": "学生"
     },
     "group": "phd",
     "photo": "",
@@ -42,11 +42,11 @@ window.SITE_DATA.people = [
       "zh": "王瑞程"
     },
     "role": {
-      "en": "Ph.D",
+      "en": "Master",
       "zh": ""
     },
     "group": "master",
-    "photo": "assets/b191e724-ed1b-408d-9f4d-49bedbf794b1.png",
+    "photo": "",
     "email": "",
     "website": "",
     "note": {
