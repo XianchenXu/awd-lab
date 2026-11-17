@@ -42,7 +42,7 @@ window.SITE_DATA.people = [
       "zh": "王瑞程"
     },
     "role": {
-      "en": "",
+      "en": "Ph.D",
       "zh": ""
     },
     "group": "phd",
