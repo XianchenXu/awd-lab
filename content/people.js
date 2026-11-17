@@ -241,7 +241,7 @@ window.SITE_DATA.people = [
     },
     "role": {
       "en": "Ph.D",
-      "zh": ""
+      "zh": "学生"
     },
     "group": "phd",
     "photo": "",
