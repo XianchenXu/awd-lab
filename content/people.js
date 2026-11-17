@@ -46,7 +46,7 @@ window.SITE_DATA.people = [
       "zh": ""
     },
     "group": "phd",
-    "photo": "assets/b191e724-ed1b-408d-9f4d-49bedbf794b1.png",
+    "photo": "",
     "email": "",
     "website": "",
     "note": {
