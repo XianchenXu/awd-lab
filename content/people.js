@@ -46,7 +46,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "phd",
-    "photo": "",
+    "photo": "assets/liuzhenlin.jpg",
     "email": "309907509@qq.com",
     "website": "",
     "note": {
@@ -64,7 +64,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "phd",
-    "photo": "",
+    "photo": "assets/lihuaixiao.jpg",
     "email": "li25225@163.com",
     "website": "",
     "note": {
@@ -118,7 +118,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "master",
-    "photo": "",
+    "photo": "assets/chenjunyi.jpg",
     "email": "3220253059@bit.edu.cn",
     "website": "",
     "note": {
@@ -154,7 +154,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "master",
-    "photo": "",
+    "photo": "assets/xvzisen.jpg",
     "email": "3220253060@bit.cn",
     "website": "",
     "note": {
@@ -208,7 +208,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "master",
-    "photo": "",
+    "photo": "assets/zhouxintao.jpg",
     "email": "764142494@qq.com",
     "website": "",
     "note": {
