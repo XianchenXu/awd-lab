@@ -1,9 +1,4 @@
-/* 论文列表 | Publications
-   year 用数字，doi 填完整链接 https://doi.org/...；网页自动按年份排序并支持搜索。
-   初始论文包含需要核实的示例，请在正式发布前检查。
-   文件仅负责 publications 栏目的内容；请保留引号、逗号和括号。
-*/
-
+/* AWD Lab publications · 可视化编辑器导出 */
 window.SITE_DATA.publications = [
   {
     "year": 2024,
@@ -24,5 +19,15 @@ window.SITE_DATA.publications = [
     "url": "",
     "highlight": "",
     "note": "Placeholder summary — replace with the exact published citation."
+  },
+  {
+    "year": 2026,
+    "title": "Active metamaterials for realizing odd mass density",
+    "authors": "Qian Wu a,1 , Xianchen Xu a,1 , Honghua Qian a,1 , Shaoyun Wang a , Rui Zhu b ID , Zheng Yan a ID , Hongbin Ma a ID , Yangyang Chen c,2 , and Guoliang Huang a,2",
+    "journal": "PNAS",
+    "doi": "",
+    "url": "",
+    "highlight": "",
+    "note": ""
   }
 ];
