@@ -11,17 +11,5 @@ window.SITE_DATA.news = [
       "zh": "全新实验室网站介绍我们的研究方向、科研动态与团队招生信息。"
     },
     "category": "Lab"
-  },
-  {
-    "date": "2026-11-10",
-    "title": {
-      "en": "AWD Lab Website Launch Test",
-      "zh": ""
-    },
-    "body": {
-      "en": "This is a test announcement for the AWD Lab website administration system.",
-      "zh": ""
-    },
-    "category": "Lab"
   }
 ];
