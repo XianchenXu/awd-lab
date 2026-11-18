@@ -82,8 +82,8 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "phd",
-    "photo": "",
-    "email": "",
+    "photo": "assets/zhangjingsong.jpg",
+    "email": "jingmo1006@163.com",
     "website": "",
     "note": {
       "en": "",
@@ -100,8 +100,8 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "phd",
-    "photo": "",
-    "email": "",
+    "photo": "assets/zhoujiawei.jpg",
+    "email": "3120266606@bit.edu.cn",
     "website": "",
     "note": {
       "en": "",
