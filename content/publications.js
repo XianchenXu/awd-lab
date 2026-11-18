@@ -23,7 +23,7 @@ window.SITE_DATA.publications = [
   {
     "year": 2026,
     "title": "Active metamaterials for realizing odd mass density",
-    "authors": "Qian Wu a,1 , Xianchen Xu a,1 , Honghua Qian a,1 , Shaoyun Wang a , Rui Zhu b ID , Zheng Yan a ID , Hongbin Ma a ID , Yangyang Chen c,2 , and Guoliang Huang a,2",
+    "authors": "Qian Wu , Xianchen Xu, Honghua Qian, Shaoyun Wang a , Rui Zhu b ID , Zheng Yan a ID , Hongbin Ma a , Yangyang Chen c,2 , and Guoliang Huang a,2",
     "journal": "PNAS",
     "doi": "",
     "url": "",
