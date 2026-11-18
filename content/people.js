@@ -233,23 +233,5 @@ window.SITE_DATA.people = [
       "en": "",
       "zh": ""
     }
-  },
-  {
-    "name": {
-      "en": "Lei Zhang",
-      "zh": "张磊"
-    },
-    "role": {
-      "en": "Ph.D",
-      "zh": "学生"
-    },
-    "group": "phd",
-    "photo": "",
-    "email": "",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
   }
 ];
