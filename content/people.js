@@ -38,6 +38,24 @@ window.SITE_DATA.people = [
   },
   {
     "name": {
+      "en": "Lei Zhang",
+      "zh": "张磊"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": "学生"
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
+    "name": {
       "en": "Zhenglin Liu",
       "zh": "刘拯林"
     },
@@ -228,24 +246,6 @@ window.SITE_DATA.people = [
     "group": "master",
     "photo": "",
     "email": "3498946843@qq.com",
-    "website": "",
-    "note": {
-      "en": "",
-      "zh": ""
-    }
-  },
-  {
-    "name": {
-      "en": "Lei Zhang",
-      "zh": "张磊"
-    },
-    "role": {
-      "en": "Ph.D",
-      "zh": "学生"
-    },
-    "group": "phd",
-    "photo": "",
-    "email": "",
     "website": "",
     "note": {
       "en": "",
