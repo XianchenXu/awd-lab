@@ -208,7 +208,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "master",
-    "photo": "assets/liuzhuoxing.jpg",
+    "photo": "",
     "email": "1328523241@qq.com",
     "website": "",
     "note": {
