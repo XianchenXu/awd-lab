@@ -233,5 +233,23 @@ window.SITE_DATA.people = [
       "en": "",
       "zh": ""
     }
+  },
+  {
+    "name": {
+      "en": "",
+      "zh": "张磊"
+    },
+    "role": {
+      "en": "Ph.D",
+      "zh": ""
+    },
+    "group": "phd",
+    "photo": "",
+    "email": "",
+    "website": "",
+    "note": {
+      "en": "",
+      "zh": ""
+    }
   }
 ];
