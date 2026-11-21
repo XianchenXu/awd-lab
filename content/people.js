@@ -154,7 +154,7 @@ window.SITE_DATA.people = [
       "zh": "学生"
     },
     "group": "master",
-    "photo": "",
+    "photo": "assets/wangruicheng.jpg",
     "email": "",
     "website": "",
     "note": {
