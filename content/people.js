@@ -155,7 +155,7 @@ window.SITE_DATA.people = [
     },
     "group": "master",
     "photo": "assets/wangruicheng.jpg",
-    "email": "",
+    "email": "3220253070@bit.edu.cn",
     "website": "",
     "note": {
       "en": "",
